@@ -1,6 +1,7 @@
 # IrvineSweeper
 
 ### :trophy: [HackUCI 2023's Best Overall Winner](https://devpost.com/software/irvinesweeper)
+## [CLICK TO DEMO](https://irvinesweeper.vercel.app/)
 
 ## Tech Stack
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
